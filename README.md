@@ -30,8 +30,7 @@ com.elevatelabs.tasks.task2
 └── StudentManagementSystem.java # Main class with CRUD operations.
 ```
 
-```
-Name: Saleha Firdous Syed Qamar  
+Name: Saleha Firdous Syed Qamar
 Domain: Java Full Stack Development
 
 
