@@ -23,12 +23,15 @@ In this task, I:
 - Loop-based menu (runs until user exits)
 - Uses `ArrayList` for dynamic storage
 
-```# Class Structure
+## Class Structure
+```
 com.elevatelabs.tasks.task2
 ├── Student.java                 # Model class with given fields.
 └── StudentManagementSystem.java # Main class with CRUD operations.
 
 Name: Saleha Firdous Syed Qamar
-Domain: Java Full Stack Development```
+Domain: Java Full Stack Development
+```
+
 
 
