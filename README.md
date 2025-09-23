@@ -31,16 +31,18 @@ com.elevatelabs.tasks.task2
 ```
 ## Example Output
 Student Management System
+
 1. Add Student
 2. View Students
 3. Update Student
 4. Delete Student
 5. Exit
--Enter your choice: 1
--Enter Student ID: 101
--Enter Student Name: Saleha Syed
--Enter Student Marks: 89.5
---✅ Student added successfully!
+Enter your choice: 1
+
+Enter Student ID: 101
+Enter Student Name: Saleha Syed
+Enter Student Marks: 89.5
+✅ Student added successfully!
 
 
 Name: Saleha Firdous Syed Qamar  
