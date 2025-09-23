@@ -30,6 +30,7 @@ com.elevatelabs.tasks.task2
 └── StudentManagementSystem.java # Main class with CRUD operations.
 ```
 ## Example Output
+```
 Student Management System
 
 1. Add Student
@@ -43,7 +44,7 @@ Enter Student ID: 101
 Enter Student Name: Saleha Syed
 Enter Student Marks: 89.5
 ✅ Student added successfully!
-
+```
 
 Name: Saleha Firdous Syed Qamar  
 Domain: Java Full Stack Development
