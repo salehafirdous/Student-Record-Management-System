@@ -24,15 +24,12 @@ In this task, I:
 - Uses `ArrayList` for dynamic storage
 
 ## Class Structure
-```
 com.elevatelabs.tasks.task2
-├── Student.java                 # Model class with given fields.
+├── Student.java # Model class with given fields.
 └── StudentManagementSystem.java # Main class with CRUD operations.
-```
 
-Name: Saleha Firdous Syed Qamar
+
+Name: Saleha Firdous Syed Qamar  
 Domain: Java Full Stack Development
-
-
 
 
