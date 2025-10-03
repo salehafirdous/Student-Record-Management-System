@@ -47,6 +47,6 @@ Enter Student Marks: 89.5
 ```
 
 Name: Saleha Firdous Syed Qamar  
-Domain: Java Full Stack Development
+Field: Java Developer Intern
 
 
